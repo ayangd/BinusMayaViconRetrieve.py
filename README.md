@@ -1,4 +1,4 @@
-# BinusMayaViconRetrieve.py
+# BinusMayaViconRetrieve.py ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ayangd/BinusMayaViconRetrieve.py/Python%20package)
 A simple python tool for retrieving Video Conference on BinusMaya
 
 ## Dependencies
